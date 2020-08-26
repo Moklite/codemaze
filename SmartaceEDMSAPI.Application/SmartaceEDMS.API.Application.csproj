@@ -1,0 +1,22 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Abp" Version="5.12.0" />
+    <PackageReference Include="AutoMapper" Version="10.0.0" />
+    <PackageReference Include="Hangfire" Version="1.7.12" />
+    <PackageReference Include="StackExchange.Redis" Version="2.1.58" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\SmartaceEDMSAPI.Data\SmartaceEDMS.API.Data.csproj" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Folder Include="SmartaceEDMS\API\Data\Models\" />
+  </ItemGroup>
+
+</Project>
