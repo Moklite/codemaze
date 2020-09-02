@@ -9,7 +9,6 @@ C:\Projects\BookStore\BookStore\bin\Debug\netcoreapp3.1\BookStore.dll
 C:\Projects\BookStore\BookStore\bin\Debug\netcoreapp3.1\BookStore.pdb
 C:\Projects\BookStore\BookStore\bin\Debug\netcoreapp3.1\BookStore.Views.dll
 C:\Projects\BookStore\BookStore\bin\Debug\netcoreapp3.1\BookStore.Views.pdb
-C:\Projects\BookStore\BookStore\obj\Debug\netcoreapp3.1\BookStore.csprojAssemblyReference.cache
 C:\Projects\BookStore\BookStore\obj\Debug\netcoreapp3.1\BookStore.AssemblyInfoInputs.cache
 C:\Projects\BookStore\BookStore\obj\Debug\netcoreapp3.1\BookStore.AssemblyInfo.cs
 C:\Projects\BookStore\BookStore\obj\Debug\netcoreapp3.1\BookStore.csproj.CoreCompileInputs.cache
